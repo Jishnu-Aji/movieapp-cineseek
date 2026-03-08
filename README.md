@@ -26,18 +26,13 @@ The application fetches **real-time data from a movie API** and displays it in a
 - Vite
 
 ### API
-- Movie Database API (OMDb / TMDb)
+- Movie Database API (OMDb)
 
 ### Deployment
 - Vercel
 
 ---
 
-## ⚙️ Installation & Setup
+🌍 Live Demo
 
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/Jishnu-Aji/movieapp-cineseek.git
-cd movieapp-cineseek
-
+🔗 https://movieapp-cineseek.vercel.app/
